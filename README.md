@@ -4,6 +4,7 @@
 
 #Initial Setup
 #First you will need a folder for the JSON files (I imported 34 files).
+#The link to the JSONs is here: https://github.com/zzorba/marvelsdb-json-data/tree/master/pack
 #Download and add all of the JSON files you want to your folder such as ant.json, cap.json, etc (for antman and captain america packs, respectively).
 
 #Part 1 - Single JSON Example
