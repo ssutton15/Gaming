@@ -1,14 +1,14 @@
 # Gaming
-#mc_database.ipynb is a notebook of 5 parts built to create a csv/excel/googlesheets doc of the Marvel Champions Cards.
-#This assumes you have used jupyter notebooks a little bit already.
+#mc_database.ipynb is a notebook of 5 parts built to create a csv/excel/googlesheets doc of the Marvel Champions Cards.  
+#This assumes you have used jupyter notebooks a little bit already.  
 
-#Initial Setup
-#First you will need a folder for the JSON files (I imported 34 files).
-#Download and add all of the JSON files you want to your folder such as ant.json, cap.json, etc (for antman and captain america packs, respectively).
+#Initial Setup  
+#First you will need a folder for the JSON files (I imported 34 files).  
+#Download and add all of the JSON files you want to your folder such as ant.json, cap.json, etc (for antman and captain america packs, respectively).  
 #The link to the JSONs is here: https://github.com/zzorba/marvelsdb-json-data/tree/master/pack
 
-#Part 1 - Single JSON Example
-#This part is an example just pulling in cap.json
+#Part 1 - Single JSON Example  
+#This part is an example just pulling in cap.json  
 
 #Part 2 - Multiple JSON Files into single DF
 #This part uses 'glob' to read all the json files in the specified directory and add them to a file_list.
